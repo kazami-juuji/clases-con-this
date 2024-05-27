@@ -28,7 +28,7 @@ class MiClase {
     }
 }
 // new crea un nuevo espacio de memoria a partir de la clase
-let clase = new MiClase('mauricio','palma');
+let clase = new MiClase('mauricio','jkdwhjfgk');
 clase.nombre = 'aña';
 clase.set_nombre('julia')
 let clase2 = new MiClase('andrea','martinez');
